@@ -1,0 +1,28 @@
+# Secret keys - NEVER push these
+.env
+
+# Database
+resume_data.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv_new/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Uploaded files
+Uploaded_resume/
+
+# Pyresparser (not needed for deployment)
+pyresparser/
+
+# OS files
+.DS_Store
+Thumbs.db
